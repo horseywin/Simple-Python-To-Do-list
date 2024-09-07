@@ -1,4 +1,5 @@
 tasks = ['do hass homework', 'eat instant noodles']
+#This loop will go on forever because true = true!
 while True:
     print("")
     print('To do list:')
